@@ -1,4 +1,16 @@
-## Hi there 👋
+# Antony Munkhchuluun
+
+🎓 UCSD Data Science Major| 📈 Sports & Analytics Enthusiast
+📊 Passionate about clean codes and data that can be turned into insight
+
+---
+
+## Featured Projects
+
+
+
+
+
 
 <!--
 **AntonyBooming/AntonyBooming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
