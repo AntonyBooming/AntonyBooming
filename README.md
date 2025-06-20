@@ -7,7 +7,7 @@
 ---
 
 ## Featured Projects
-🏀 StatPilot
+### 🏀 StatPilot
 
 Predict NBA player prop outcomes with a live, interactive web app.
 
@@ -16,7 +16,7 @@ Predict NBA player prop outcomes with a live, interactive web app.
 [Devpost](https://devpost.com/software/statpilot)
 
 
-🚫⚡ Power Outage Analysis
+### 🚫⚡ Power Outage Analysis
 
 Analyzed the characteristics of severe power outages.
 
@@ -25,7 +25,7 @@ Analyzed the characteristics of severe power outages.
 [Website](https://antonybooming.github.io/outage_project/)
 
 
-🔱🏀📊 Research Project
+### 🔱🏀📊 Research Project
 Description
 Links
 
