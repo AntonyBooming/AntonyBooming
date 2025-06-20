@@ -16,6 +16,7 @@ Predict NBA player prop outcomes with a live, interactive web app.
 [Devpost](https://devpost.com/software/statpilot)
 
 
+
 ### 🚫⚡ Power Outage Analysis
 
 Analyzed the characteristics of severe power outages.
@@ -23,6 +24,7 @@ Analyzed the characteristics of severe power outages.
 [GitHub Repo](https://github.com/AntonyBooming/outage_project.git)
 
 [Website](https://antonybooming.github.io/outage_project/)
+
 
 
 ### 🔱🏀📊 Research Project
